@@ -7,6 +7,7 @@ v1.0(v16)
 - Added Android 12 Support
 - Probably Android 13 Support (need testing)
 - IOS 16.0 Unofficial Emojis
+- Unicode 14
 
 ## REQUIREMENT
 - Magisk 18.0+
