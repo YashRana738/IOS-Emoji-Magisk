@@ -1,1 +1,1 @@
-# IOS_Emoji_Magisk
+# IOS-Emoji-Magisk
