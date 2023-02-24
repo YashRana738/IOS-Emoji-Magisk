@@ -2,7 +2,7 @@
 Systemlessly replaces emoji font with iOS Emoji.
 
 ## Changelog
-v15.4.6
+v1.0(v16)
 - Initial Release
 - Added Android 12 Support
 - Probably Android 13 Support (need testing)
