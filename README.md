@@ -1,6 +1,19 @@
 # IOS-Emoji-Magisk
 Systemlessly replaces emoji font with iOS Emoji.
 
+## Features
+Easy installation through Magisk Manager or custom recovery.
+No system partition modification required.
+Compatible with most Android devices running Magisk.
+Seamless switch between iOS and default Android emojis.
+
+## Installation
+-Download the latest release of the Magisk iOS Emojis module from the Releases tab.
+-Open Magisk Manager and go to the Modules section.
+-Tap the "+" button and select the downloaded zip file.
+-Wait for the installation process to finish and reboot your device.
+-Enjoy the iOS emojis on your Android device!
+
 ## Changelog
 v1.0(v16)
 - Initial Release
@@ -14,3 +27,4 @@ v1.0(v16)
 
 ## Tested On
 - Andriod Device Running Andriod 12 Miui 13
+- Aosp based Roms Running 
