@@ -11,3 +11,6 @@ v1.0(v16)
 
 ## REQUIREMENT
 - Magisk 18.0+
+
+## Tested On
+- Andriod Device Running Andriod 12 Miui 13
